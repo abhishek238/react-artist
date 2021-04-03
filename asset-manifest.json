@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abhishek238/react-artist/static/css/main.396fe1cb.chunk.css",
+    "main.js": "/abhishek238/react-artist/static/js/main.13f1370a.chunk.js",
+    "main.js.map": "/abhishek238/react-artist/static/js/main.13f1370a.chunk.js.map",
+    "runtime-main.js": "/abhishek238/react-artist/static/js/runtime-main.472460db.js",
+    "runtime-main.js.map": "/abhishek238/react-artist/static/js/runtime-main.472460db.js.map",
+    "static/js/2.e8e38e38.chunk.js": "/abhishek238/react-artist/static/js/2.e8e38e38.chunk.js",
+    "static/js/2.e8e38e38.chunk.js.map": "/abhishek238/react-artist/static/js/2.e8e38e38.chunk.js.map",
+    "static/js/3.d7905e2b.chunk.js": "/abhishek238/react-artist/static/js/3.d7905e2b.chunk.js",
+    "static/js/3.d7905e2b.chunk.js.map": "/abhishek238/react-artist/static/js/3.d7905e2b.chunk.js.map",
+    "index.html": "/abhishek238/react-artist/index.html",
+    "static/css/main.396fe1cb.chunk.css.map": "/abhishek238/react-artist/static/css/main.396fe1cb.chunk.css.map",
+    "static/js/2.e8e38e38.chunk.js.LICENSE.txt": "/abhishek238/react-artist/static/js/2.e8e38e38.chunk.js.LICENSE.txt",
+    "static/media/logo.f569eeb9.svg": "/abhishek238/react-artist/static/media/logo.f569eeb9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472460db.js",
+    "static/js/2.e8e38e38.chunk.js",
+    "static/css/main.396fe1cb.chunk.css",
+    "static/js/main.13f1370a.chunk.js"
+  ]
+}
