@@ -4,7 +4,7 @@ const selectArt = state => state.art;
 
 export const selectArts = createSelector(
     [selectArt],
-    art => art.arts.sort(() => .5 - Math.random())
+    art => art.arts
 );
 
 export const selectArtForPreview = createSelector(

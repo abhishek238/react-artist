@@ -30,7 +30,7 @@ const ArtistList = ({artists}) => {
                 />
                 <ListGroup variant="flush">
                     {localArtists.map(({id, name, imageUrl}) => (
-                        <ListGroup.Item key={id} style={{textAlign: 'left'}}>
+                        <ListGroup.Item key={id} style={{textAlign: 'left', cursor: 'pointer'}}>
                             <Image src={`images/artists/${imageUrl}`} roundedCircle
                                    style={{width: '24px', height: '24px'}}/>
                             <span style={{fontWeight: 'bold', marginLeft: '6px'}}>{name}</span>
