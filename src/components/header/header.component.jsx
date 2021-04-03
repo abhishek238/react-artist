@@ -13,23 +13,23 @@ const Header = (props) => (
     <HeaderContainer>
         <OptionsContainer>
             <Row>
-                <Col xs={3}>
+                <Col lg={3} md={2}>
                     <OptionLink to={'/'}>
                         <Logo style={{height: '24px'}}/>
                     </OptionLink>
                 </Col>
-                <Col xs={6}>
+                <Col lg={6} md={7}>
                     <OptionLink to='/drops'>Drops</OptionLink>
                     <OptionLink to='/marketplace'>Marketplace</OptionLink>
                     <OptionLink to='/profile'>Profile</OptionLink>
                     <OptionLink to='/rally-io'>Rally.io</OptionLink>
                 </Col>
-                <Col>
+                <Col lg={1}>
                     <OptionLink to='#'>
                         <Search color="white" size={22}/>
                     </OptionLink>
                 </Col>
-                <Col>
+                <Col lg={2}>
                     <OptionLink to='/login-signup'>Login / Sign Up</OptionLink>
                 </Col>
             </Row>

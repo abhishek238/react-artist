@@ -21,10 +21,10 @@ const MarketplacePage = ({art, artist}) => {
                 </Col>
             </Row>
             <Row style={{ display: 'flex', justifyContent: "center", marginTop: '12px'}}>
-                <Col xs={4}>
+                <Col md={4} xs={6}>
                     <ArtistList/>
                 </Col>
-                <Col xs={8}>
+                <Col md={8}>
                     <ArtList/>
                 </Col>
             </Row>
